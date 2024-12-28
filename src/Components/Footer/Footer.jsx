@@ -15,13 +15,13 @@ const Footer = () => {
                 Discover new opportunities and meet new people.
             </p>
         </div>
-        <div className="footer-top-right">
+        {/* <div className="footer-top-right">
             <div className="footer-email-input">
                 <img src={user_icon} alt="" />
                 <input type="email" placeholder='Enter your Email'/>
             </div>
             <div className="footer-subscribe"> Subscribe </div>
-        </div>
+        </div> */}
         
         </div>
         <hr />
