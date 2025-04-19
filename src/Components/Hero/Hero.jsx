@@ -12,7 +12,7 @@ const Hero = () => {
     <p>I'm passionate about building user-friendly web applications and helping people achieve their goals.</p>
     <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link'offset={50} href='#contact'>Connect with me</AnchorLink></div>
-        <div className="hero-resume"> <a href="https://alfafza.github.io/resume/"  className="hero-resume text-white no-underline" target="_blank" rel="noopener noreferrer">My Resume</a></div>
+        <div className="hero-resume"> <a href="https://alfafza.github.io/resume/"  className=" text-white no-underline" target="_blank" rel="noopener noreferrer">My Resume</a></div>
     </div>
     </div>
   )
